@@ -1,7 +1,25 @@
-package main  
+// package main
 
-import "fmt"  
+// import (
+// 	"bufio"
+// 	"fmt"
+// 	"log"
+// 	"os"
+// ) 
 
-func main() {  
-   fmt.Println("Hello World")  
-}
+// var pl = fmt.Println
+// // Comment 
+// /* MultiLine Comments 
+// */
+
+// func main() {  
+//    pl("What is your name?")
+//    reader := bufio.NewReader(os.Stdin)
+//    name, err := reader.ReadString('\n')
+//    if err == nil {
+// 	pl("Hello", name)
+//    } else {
+// 	log.Fatal(err)
+//    }
+
+// }
